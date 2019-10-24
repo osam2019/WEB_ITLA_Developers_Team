@@ -1,0 +1,106 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "test@test.com",
+      "password": "123456",
+      "ratings": [
+        {
+          "id": 1,
+          "value": ""
+        },
+        {
+          "id": 2,
+          "value": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "email": "admin@itla.com",
+      "password": "123456",
+      "ratings": []
+    }
+  ],
+  "feeds": [{
+    "date": "2019-11-24",
+    "title": "기계가 사람을 뽑는 AI채용시대",
+    "category": "1",
+    "madeBy": "1",
+    "url":"https://brunch.co.kr/@yooncohg/141",
+    "rate":0
+    },{
+      "date": "2019-11-24",
+      "title": "롤드컵이 독서에 미치는 영향",
+      "category": "2",
+      "url":"https://brunch.co.kr/@ssmile777/64",
+    "madeBy": "1",
+      "rate":"0"
+    },{
+      "date": "2019-11-24",
+      "title": "블록체인은 닷컴 버블과 다르다",
+      "category": "3",
+      "url":"https://brunch.co.kr/@noder/14",
+    "madeBy": "1",
+      "rate":"0"
+    },{
+      "date": "2019-11-24",
+      "title": "아마존의 핵심, MSA를 따라가다",
+    "category": "4",
+      "url":"https://brunch.co.kr/@beennote/186",
+    "madeBy": "1",
+      "rate":"0"
+    },
+    {
+      "date": "2019-11-24",
+      "title": "인공지능 시대의 건축과 도시",
+      "category": "3",
+      "url":"https://brunch.co.kr/@kimsungah/5",
+      "madeBy": "2",
+      "rate":"0"
+    }, {
+      "date": "2019-11-24",
+      "title": "구글 픽셀 4 수령기",
+      "category": "2",
+      "url":"https://brunch.co.kr/@minseungsong/43",
+      "madeBy": "1",
+      "rate":"0"
+    }, {
+      "date": "2019-11-16",
+      "title": "[코딩 부트캠프] 좌절이 찾아올 때",
+      "category": "1",
+      "url":"https://brunch.co.kr/@byuldbyul/29",
+      "madeBy": "2",
+      "rate":"0"
+    }, {
+      "date": "2019-09-25",
+      "title": "LINE 개발자 3인의 파이콘 2019 방문기",
+      "category": "2",
+      "url":"https://engineering.linecorp.com/ko/blog/pycon-korea-2019/",
+      "madeBy": "1",
+      "rate":"0"
+    }, {
+      "date": "2019-09-23",
+      "title": "파이콘 2019 부스&굿즈 제작기",
+      "category": "3",
+      "url":"https://brunch.co.kr/@sundayoff/38",
+      "madeBy": "2",
+      "rate":"0"
+    }, {
+      "date": "2019-07-24",
+      "title": "ECMA6 is changing our coding style",
+      "category": "2",
+      "url":"https://medium.com/@arunrajeevan/ecma6-is-changing-our-coding-style-70a42b86b567",
+      "madeBy": "1",
+      "rate":"0"
+    }, {
+      "date": "2018-1-15",
+      "title": "스팀잇  후기",
+      "category": "1",
+      "url":"https://brunch.co.kr/@byuldbyul/29",
+      "madeBy": "2",
+      "rate":"0"
+    }
+  ]
+
+}
